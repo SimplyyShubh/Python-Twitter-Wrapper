@@ -1,0 +1,37 @@
+{
+    "data":[
+        {
+            "inf-tweet-url":"https://twitter.com/HodlBee/status/1487812849514815493",
+            "creds":{
+                "user":"_cryptonaut_",
+                "pass":"fortheHyp3!",
+                "email":"",
+                "phone":"639657555826"
+            },
+            "img-url":"http://www.pablosoftwaresolutions.com/assets/images/ftpserver3lite_1.jpg",
+            "tweet":"TweetTest"
+        },
+        {
+            "inf-tweet-url":"https://twitter.com/CryptoMichNL/status/1489516662579679234",
+            "creds":{
+                "user":"",
+                "pass":"#MsCryptoHive01",
+                "email":"C0inPer2ona@gmx.com",
+                "phone":"+639059653671"
+            },
+            "img-url":"C:\\Users\\BlackHacker\\Desktop\\python-twitter-bh\\brick.png",
+            "tweet":"test2"
+        },
+        {
+            "inf-tweet-url":"https://twitter.com/BinanceChain/status/1489584375062798339",
+            "creds":{
+                "user":"MrCrypGr0T",
+                "pass":"#MsCryptoHive01",
+                "email":"MrCrypGr0T@gmx.com",
+                "phone":"+639357020144"
+            },
+            "img-url":"C:\\Users\\BlackHacker\\Desktop\\python-twitter-bh\\brick.png",
+            "tweet":"test3"
+        }
+    ]
+}
